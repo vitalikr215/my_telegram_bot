@@ -2,6 +2,9 @@
 import bot
 import basic_handlers
 import markdown_handlers
+import commands_handler
+import links_and_media_handlers
+import enities_handler
 import asyncio
 import logging
 
